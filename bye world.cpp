@@ -1,7 +1,6 @@
-include(iostream)
-namespace std;
+#include <iostream>
+using namespace std;
 
 int main(){
-  cout << "嚴厲斥責" << endl;
-return0;
+	cout << "嚴厲斥責" << endl;
 }
